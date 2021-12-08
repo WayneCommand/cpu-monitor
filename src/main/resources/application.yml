@@ -1,0 +1,7 @@
+logging:
+  charset:
+    console: utf-8
+    file: utf-8
+  file:
+    name: app.log
+    path: rolling
